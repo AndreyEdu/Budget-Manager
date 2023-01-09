@@ -98,9 +98,12 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/76/stages/421/implement#comment
+- name: src/budget/Manager.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7024#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: "Mon, 09 Jan 2023 07:35:33 UTC"
-record: -1
+record: 1

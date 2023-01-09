@@ -203,6 +203,14 @@ files:
 
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/76/stages/422/implement#comment
-status: Unchecked
+- name: src/budget/Manager.java
+  visible: true
+  text: "package budget;\n\npublic class Manager {\n    \n    private int balance;\n\
+    \n}\n"
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7025#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Jan 2023 11:32:51 UTC"
 record: -1
